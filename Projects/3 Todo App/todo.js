@@ -1,13 +1,4 @@
-let todoList = [
-  {
-    item: 'Buy Milk',
-    dueDate: '4/10/2023'
-  },
-  {
-    item: 'Go to College',
-    dueDate: '4/10/2023'
-  }
-];
+let todoList = [];
 
 displayItems();
 
